@@ -1,0 +1,11 @@
+The credito.txt file is a database of 654 anonymous credit card applications. It contains 10 predictor variables (A1, A2, A3, ...), 6 of them continuous and the rest binary. In the last column is the response variable (R1), which indicates whether the request was accepted (1) or rejected (0).
+
+Since it is a binary classification problem (accepted or rejected), an appropriate classification algorithm for this case could be Logistic Regression. Logistic Regression is a linear classification algorithm that can be used to model the probability of belonging to a certain class based on predictor variables, and it is suitable for binary classification problems.
+
+Some reasons why you might choose Logistic Regression are:
+
+Interpretability: Logistic Regression is a linear model that is relatively easy to interpret, allowing one to understand how each predictor variable affects the probability of belonging to a particular class.
+
+Computational Efficiency: Logistic Regression is a computationally efficient algorithm and can be applied to databases of moderate size without requiring too many computational resources.
+
+Good performance on binary classification problems: Logistic Regression is known for its good performance on binary classification problems, especially when the classes are well balanced.
